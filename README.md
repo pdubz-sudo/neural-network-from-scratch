@@ -1,6 +1,10 @@
 # neural-network-from-scratch
 An unlimited layered neural network that I built from scratch.
 
-Will update readme later
+not finished yet
 
-not finished yet, update softmax and add adam, momentum, and L2 when I have more free time...
+need to:
+1 one hot encode labels and do loss for softmax which is - sum Y*logYhat
+2 use dZ of soft max to initialize backprop dZ = yhat-y
+3. maybe add adam, momentum,mini batch gradient descent, batch and L2 regularization
+4. move all functions to py files and import into jupyter notebook
