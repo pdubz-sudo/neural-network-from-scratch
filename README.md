@@ -14,3 +14,5 @@ need to:
 3. maybe add adam, momentum,mini batch gradient descent, batch and L2 regularization
 
 4. move all functions to py files and import into jupyter notebook
+
+5. check your equations are right by using gradient checking algorithm
