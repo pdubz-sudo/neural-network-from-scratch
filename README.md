@@ -1,11 +1,12 @@
 # neural-network-from-scratch
 An unlimited layered neural network that I built from scratch.
 
+Model works and can be run when hidden_activation is set to "leaky relu", "relu", "tanh", "sigmoid" and output_activation "sigmoid"
 
-not finished yet
 
 
-need to:
+
+would like to add if I have more free time
 
 1 one hot encode labels and do loss for softmax which is - sum Y*logYhat
 
