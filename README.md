@@ -1,6 +1,8 @@
 # neural-network-from-scratch
 An unlimited layered neural network that I built from scratch.
 
+Programming language: Python
+
 Still in progress and to be updated later...
 
 Model works and can be run when hidden_activation is set to "leaky relu", "relu", "tanh", "sigmoid" and output_activation "sigmoid"
