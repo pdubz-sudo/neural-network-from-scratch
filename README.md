@@ -12,10 +12,10 @@ would like to add if I have more free time
 
 1. one hot encode labels and do loss for softmax which is: - Σ Y*log(Y-hat)
 
-- use dZ of soft max to initialize backprop dZ = yhat-y
+2. use dZ of soft max to initialize backprop dZ = yhat-y
 
-- maybe add adam, momentum,mini batch gradient descent, batch and L2 regularization
+3. maybe add adam, momentum,mini batch gradient descent, batch norm and L2 regularization
 
-- move all functions to py files and import into jupyter notebook
+4. move all functions to py files and import into jupyter notebook
 
-- check your equations are right by using gradient checking algorithm
+5. check your equations are right by using gradient checking algorithm
