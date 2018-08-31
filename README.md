@@ -1,5 +1,5 @@
 # neural-network-from-scratch
-An unlimited layered neural network that I built from scratch.
+A n-layered neural network that I built from scratch.
 
 Programming language: Python
 
